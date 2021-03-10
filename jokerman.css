@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'Jokerman';
+    src: url('./Jokerman-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+         url('./Jokerman-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+  }
